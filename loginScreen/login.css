@@ -1,0 +1,35 @@
+body{
+
+    background-image: url("fireworks.jpg");
+}
+.myclassname{
+margin:auto;
+position: relative;
+top:50px;
+width:50%;
+background-color: rgb(154, 154, 247);
+padding:20px;
+border-radius: 8%;
+min-height:500px;
+
+}
+
+#mysubmitbutton{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+#text{
+    font-size:25px;
+    font-family: 'Gugi', cursive;
+    color:rgb(173, 50, 218);
+}
+
+#header{
+    font-size:40px;
+    font-family: 'Gugi', cursive;
+    color:rgb(244, 215, 255);
+}
